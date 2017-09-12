@@ -12,4 +12,4 @@ Features to be added:
 1) A dummy looking payment portal
 2) more enhanced view of website
 3) any other feature as per the user need
-Adding features will be appreciated.
+
